@@ -1,0 +1,93 @@
+[
+{
+        "id": "20001",
+        "firstName": "Thomas",
+        "lastName": "Andersen",
+        "addresses": [
+            {
+                "line1": "100 Some Street",
+                "line2": "Unit 1",
+                "city": "Seattle",
+                "state": "WA",
+                "zip": 98012
+            }
+        ],
+        "contactDetails": [
+            {"email": "thomas@andersen.com"},
+            {"phone": "+1 555 555-5555", "extension": 5555}
+        ]
+    },
+
+    {
+        "id": "20002",
+        "firstName": "John",
+        "lastName": "Kerry",
+        "addresses": [
+            {
+                "line1": "200 Home Street",
+                "line2": "Unit 2",
+                "city": "Washington",
+                "state": "WA",
+                "zip": 78018
+            }
+        ],
+        "contactDetails": [
+            {"email": "john@kerry.com"},
+            {"phone": "+1 111 111-111", "extension": 1111}
+        ]
+    },
+
+    {
+        "id": "20003",
+        "firstName": "Barak",
+        "lastName": "Obama",
+        "addresses": [
+            {
+                "line1": "300 Done Street",
+                "line2": "Unit 300",
+                "city": "New York",
+                "state": "NY",
+                "zip": 31022
+            }
+        ],
+        "contactDetails": [
+            {"email": "barak@obama.com"},
+            {"phone": "+1 999 999-999", "extension": 9999}
+        ]
+    },
+
+    {
+        "id": "20004",
+        "firstName": "Boris",
+        "lastName": "Johnson",
+        "addresses": [
+
+            { "uk address":
+                    {
+                        "line1": "10 Downing Street",
+                        "line2": "Unit 10",
+                        "city": "London",
+                        "state": "London",
+                        "postcode": "W1 2SE"
+                    }
+            },
+
+
+            {
+                "us address":
+                    {
+                        "line1": "100 dam ave",
+                        "line2": "Unit 123",
+                        "city": "San Francisco",
+                        "state": "LA",
+                        "zipcode": "56889"
+                    }
+            }
+        ],
+        "contactDetails": [
+            {"email": "boris@johnson.com"},
+            {"phone": "+44 777 777-777", "extension": 7777}
+        ]
+    }
+
+]
