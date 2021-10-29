@@ -1,0 +1,22 @@
+{
+    "firstName": "Thomas",
+    "lastName": "Andersen",
+    "addresses": [
+        {
+            "line1": "100 Some Street",
+            "line2": "Unit 1",
+            "city": "Seattle",
+            "state": "WA",
+            "zip": 98012
+        }
+    ],
+    "contactDetails": [
+        {
+            "email": "thomas@andersen.com"
+        },
+        {
+            "phone": "+1 555 555-5555",
+            "extension": 5555
+        }
+    ]
+}
