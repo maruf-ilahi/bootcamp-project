@@ -1,0 +1,24 @@
+{
+    "firstName": "Boris",
+    "lastName": "Johnson",
+    "addresses": [
+        {
+            "uk address": {
+                "line1": "10 Downing Street",
+                "line2": "Unit 10",
+                "city": "London",
+                "state": "London",
+                "postcode": "W1 2SE"
+            }
+        },
+        {
+            "us address": {
+                "line1": "100 dam ave",
+                "line2": "Unit 123",
+                "city": "San Francisco",
+                "state": "LA",
+                "zipcode": "56889"
+            }
+        }
+    ]
+}
