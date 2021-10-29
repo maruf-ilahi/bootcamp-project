@@ -1,0 +1,22 @@
+{
+    "firstName": "John",
+    "lastName": "Kerry",
+    "addresses": [
+        {
+            "line1": "200 Home Street",
+            "line2": "Unit 2",
+            "city": "Washington",
+            "state": "WA",
+            "zip": 78018
+        }
+    ],
+    "contactDetails": [
+        {
+            "email": "john@kerry.com"
+        },
+        {
+            "phone": "+1 111 111-111",
+            "extension": 1111
+        }
+    ]
+}
