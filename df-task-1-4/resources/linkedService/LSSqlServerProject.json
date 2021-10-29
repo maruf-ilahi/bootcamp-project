@@ -1,0 +1,12 @@
+{
+	"name": "LSSqlServerProject",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=sqlserverproject5599.database.windows.net;initial catalog=db-project-5599;user id=sqlsa",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFERi1QUk9KRUNULTU1OTlfNzYyZjM2Y2UtNjU4MS00OWY0LWJiYmYtNDRiODFhMGJhMzBjIg0KfQ=="
+		}
+	}
+}
