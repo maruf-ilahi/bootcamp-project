@@ -1,0 +1,22 @@
+{
+    "firstName": "Barak",
+    "lastName": "Obama",
+    "addresses": [
+        {
+            "line1": "300 Done Street",
+            "line2": "Unit 300",
+            "city": "New York",
+            "state": "NY",
+            "zip": 31022
+        }
+    ],
+    "contactDetails": [
+        {
+            "email": "barak@obama.com"
+        },
+        {
+            "phone": "+1 999 999-999",
+            "extension": 9999
+        }
+    ]
+}
