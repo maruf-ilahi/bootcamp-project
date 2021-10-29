@@ -1,0 +1,12 @@
+FirstName,LastName
+Boris,Johnson
+Bill,Clinton
+Barak,Obama
+David,Cameroon
+Joe,Biden
+Martin,King
+Nelson,Mandela
+Angela,Markel
+Vladimir,Putin
+Emmanuel,Macron
+
