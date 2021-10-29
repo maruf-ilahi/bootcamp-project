@@ -34,6 +34,13 @@ CREATE TABLE Address (
 
 );
 
+
+-- Alter TABLE Adding "ON DELETE AND UPDATE CASCADE"
+ALTER TABLE Address WITH CHECK ADD CONSTRAINT FK_Address_Person FOREIGN KEY(PersonId)
+    REFERENCES Person (PersonId)
+    ON DELETE CASCADE
+
+
 -- Create TABLE ContactDetailType
 CREATE TABLE ContactDetailType
 (
@@ -49,6 +56,13 @@ CREATE TABLE ContactDetail
     ,   ContactDetail VARCHAR(50)
     ,   ContactDetailTypeId INT FOREIGN KEY REFERENCES ContactDetailType(ContactDetailTypeId)
 );
+
+
+-- Alter TABLE Adding "ON DELETE AND UPDATE CASCADE"
+ALTER TABLE ContactDetail WITH CHECK ADD CONSTRAINT FK_ContactDetail_ContactDetailType FOREIGN KEY(ContactDetailTypeId)
+    REFERENCES ContactDetailType (ContactDetailTypeId)
+    ON DELETE CASCADE
+
 
 
 -----------------------------------------------------------------------------------------------
