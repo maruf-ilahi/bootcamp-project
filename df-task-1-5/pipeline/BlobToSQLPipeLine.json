@@ -1,5 +1,5 @@
 {
-	"name": "CopyPipelineP3",
+	"name": "BlobToSQLPipeLine",
 	"properties": {
 		"activities": [
 			{
