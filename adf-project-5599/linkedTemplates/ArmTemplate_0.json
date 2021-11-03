@@ -541,10 +541,6 @@
 						]
 					}
 				],
-				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
-				},
 				"annotations": [],
 				"lastPublishTime": "2021-10-27T00:58:22Z"
 			},
@@ -715,10 +711,6 @@
 						}
 					}
 				],
-				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
-				},
 				"annotations": [],
 				"lastPublishTime": "2021-10-21T16:13:11Z"
 			},
@@ -798,10 +790,6 @@
 						}
 					}
 				],
-				"policy": {
-					"elapsedTimeMetric": {},
-					"cancelAfter": {}
-				},
 				"parameters": {
 					"tableList": {
 						"type": "array"
